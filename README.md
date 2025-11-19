@@ -1,0 +1,1 @@
+Se usa la arquitectura MVI y el patron state por el flujo que tienen, siendo unidireccional, el cual ayuida a controlar los estados, predecir el comportamiento del sistema y asi manejar el UI facilmente.
