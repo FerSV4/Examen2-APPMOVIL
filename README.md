@@ -1,1 +1,1 @@
-Se usa la arquitectura MVI y el patron state por el flujo que tienen, siendo unidireccional, el cual ayuida a controlar los estados, predecir el comportamiento del sistema y asi manejar el UI facilmente.
+Se usa la arquitectura MVI con jetpack compose porque permite un flujo unidireccional y predecible por lo que el UI es la determinante del resultado de las acciones, ademas que mbi es facil de entender y combina con compose
